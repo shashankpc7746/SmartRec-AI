@@ -1,6 +1,0 @@
-{
-    "exclude": [
-        "backend/recommendation_notebook.py",
-        "recommendation_notebook (1).ipynb"
-    ]
-}
