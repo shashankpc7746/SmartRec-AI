@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SmartRec AI — Product Recommendations</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <!-- SCREEN 1: ONBOARDING / SIGNUP -->
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <div id="onboarding" class="screen">
+        <div class="onboard-container">
+            <div class="onboard-header">
+                <span class="brand-icon-lg">🛒</span>
+                <h1>Welcome to <span class="brand-gradient">SmartRec AI</span></h1>
+                <p class="onboard-sub">Tell us what you're interested in. We'll personalize your experience.</p>
+            </div>
+
+            <div class="onboard-step">
+                <div class="step-label">
+                    <span class="step-num">1</span>
+                    <span>Enter your name</span>
+                </div>
+                <input type="text" id="userName" class="onboard-input" placeholder="Your name" maxlength="40">
+            </div>
+
+            <div class="onboard-step">
+                <div class="step-label">
+                    <span class="step-num">2</span>
+                    <span>Pick categories you love <span class="pick-hint">(at least 2)</span></span>
+                </div>
+                <div class="category-picker" id="categoryPicker">
+                    <!-- Filled by JS -->
+                </div>
+            </div>
+
+            <button id="startBtn" class="btn-start" disabled>
+                Get Started →
+            </button>
+            <p class="onboard-footer">Powered by Databricks ML · ALS Collaborative Filtering</p>
+        </div>
+    </div>
+
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <!-- SCREEN 2: MAIN FEED -->
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <div id="mainApp" class="screen" style="display:none;">
+
+        <!-- Navbar -->
+        <nav class="navbar">
+            <div class="nav-container">
+                <div class="nav-brand">
+                    <span class="brand-icon">🛒</span>
+                    <span class="brand-text">SmartRec <span class="brand-ai">AI</span></span>
+                </div>
+                <div class="nav-center">
+                    <input type="text" id="searchBar" class="search-bar" placeholder="Search products...">
+                </div>
+                <div class="nav-right">
+                    <button class="nav-icon-btn" id="cartBtn" title="Cart">
+                        🛒 <span class="cart-count" id="cartCount">0</span>
+                    </button>
+                    <button class="nav-icon-btn" id="likedBtn" title="Wishlist">
+                        ❤️ <span class="liked-count" id="likedCount">0</span>
+                    </button>
+                    <div class="user-chip" id="userChip" title="Open Profile">
+                        <span class="user-avatar" id="userAvatar">S</span>
+                        <span id="userNameDisplay">User</span>
+                    </div>
+                    <button class="btn-logout" id="logoutBtn" title="Logout &amp; Reset">↻</button>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Main content scroll area -->
+        <main class="feed">
+
+            <!-- Recommendations Section -->
+            <section class="feed-section recs-section" id="recsSection">
+                <div class="section-head">
+                    <h2>✨ Recommended For You</h2>
+                    <p class="section-sub" id="recSubtext">Trending picks from your favorite categories</p>
+                </div>
+                <div class="hscroll-track">
+                    <div class="hscroll" id="recsScroll">
+                        <!-- Filled by JS -->
+                    </div>
+                </div>
+            </section>
+
+            <!-- Per-Category Sections -->
+            <div id="categorySections">
+                <!-- Filled by JS: one section per selected category -->
+            </div>
+
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="footer-content">
+                <span>🛒 SmartRec AI — CloudFront Data & AI Hackathon</span>
+                <div class="footer-tags">
+                    <span class="ftag">Databricks</span>
+                    <span class="ftag">PySpark ML</span>
+                    <span class="ftag">ALS</span>
+                    <span class="ftag">Collaborative Filtering</span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <!-- PRODUCT DETAIL MODAL -->
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <div id="productModal" class="modal-overlay" style="display:none;">
+        <div class="modal-sheet">
+            <button class="modal-close" id="modalClose">✕</button>
+            <div class="modal-body" id="modalBody">
+                <!-- Filled by JS -->
+            </div>
+        </div>
+    </div>
+
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <!-- PROFILE PANEL -->
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <div id="profilePanel" class="sidebar-overlay" style="display:none;">
+        <div class="sidebar-panel profile-panel">
+            <div class="sidebar-head">
+                <h3>👤 My Profile</h3>
+                <button class="modal-close" id="profileClose">✕</button>
+            </div>
+            <div class="sidebar-body" id="profileBody">
+                <!-- Filled by JS -->
+            </div>
+        </div>
+    </div>
+
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <!-- CART SIDEBAR -->
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <div id="cartSidebar" class="sidebar-overlay" style="display:none;">
+        <div class="sidebar-panel">
+            <div class="sidebar-head">
+                <h3>🛒 Your Cart</h3>
+                <button class="modal-close" id="cartClose">✕</button>
+            </div>
+            <div class="sidebar-body" id="cartBody">
+                <p class="empty-msg">Your cart is empty</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <!-- WISHLIST SIDEBAR -->
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <div id="likedSidebar" class="sidebar-overlay" style="display:none;">
+        <div class="sidebar-panel">
+            <div class="sidebar-head">
+                <h3>❤️ Your Wishlist</h3>
+                <button class="modal-close" id="likedClose">✕</button>
+            </div>
+            <div class="sidebar-body" id="likedBody">
+                <p class="empty-msg">Your wishlist is empty</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,501 @@
+user_id,age_group,location,preferred_category,membership_type,signup_date
+1,18-24,Mumbai,Beauty,Free,2025-08-02
+2,25-34,Indore,Electronics,Silver,2023-04-03
+3,18-24,Lucknow,Home & Kitchen,Free,2025-01-21
+4,25-34,Hyderabad,Sports,Silver,2022-07-11
+5,25-34,Indore,Beauty,Gold,2025-02-23
+6,25-34,Ahmedabad,Sports,Free,2024-05-09
+7,25-34,Indore,Home & Kitchen,Free,2022-01-14
+8,25-34,Bhopal,Books,Free,2022-11-15
+9,18-24,Kolkata,Books,Silver,2024-02-18
+10,45-54,Jaipur,Electronics,Platinum,2022-03-30
+11,18-24,Jaipur,Books,Gold,2024-02-15
+12,35-44,Lucknow,Fashion,Gold,2025-06-20
+13,25-34,Bhopal,Books,Platinum,2022-04-04
+14,18-24,Pune,Books,Silver,2023-04-22
+15,25-34,Kolkata,Books,Free,2024-01-18
+16,18-24,Lucknow,Beauty,Free,2023-07-01
+17,25-34,Ahmedabad,Home & Kitchen,Free,2023-05-17
+18,55+,Hyderabad,Beauty,Free,2025-08-03
+19,25-34,Kochi,Electronics,Gold,2022-04-25
+20,35-44,Delhi,Fashion,Platinum,2024-04-01
+21,35-44,Hyderabad,Beauty,Silver,2025-03-07
+22,45-54,Bangalore,Books,Free,2025-08-09
+23,55+,Chennai,Beauty,Silver,2025-02-23
+24,45-54,Kolkata,Fashion,Platinum,2025-04-10
+25,55+,Ahmedabad,Electronics,Gold,2022-10-11
+26,25-34,Chandigarh,Fashion,Gold,2022-08-13
+27,55+,Delhi,Home & Kitchen,Free,2024-05-14
+28,55+,Chennai,Sports,Gold,2024-08-16
+29,18-24,Chandigarh,Sports,Gold,2022-01-24
+30,35-44,Delhi,Books,Silver,2025-08-05
+31,18-24,Indore,Beauty,Free,2024-07-18
+32,25-34,Jaipur,Electronics,Gold,2024-10-22
+33,55+,Lucknow,Fashion,Free,2023-09-04
+34,55+,Bhopal,Sports,Platinum,2022-11-27
+35,35-44,Ahmedabad,Electronics,Free,2025-05-11
+36,35-44,Hyderabad,Electronics,Free,2024-01-14
+37,18-24,Delhi,Beauty,Silver,2025-03-07
+38,55+,Bhopal,Fashion,Free,2022-05-22
+39,55+,Bangalore,Books,Silver,2024-08-31
+40,45-54,Hyderabad,Sports,Gold,2025-05-27
+41,25-34,Indore,Books,Free,2025-11-13
+42,35-44,Ahmedabad,Sports,Silver,2025-10-07
+43,25-34,Delhi,Books,Free,2023-05-23
+44,25-34,Lucknow,Fashion,Free,2025-02-08
+45,18-24,Hyderabad,Electronics,Platinum,2025-12-20
+46,18-24,Jaipur,Fashion,Free,2023-11-08
+47,25-34,Jaipur,Fashion,Gold,2024-09-21
+48,55+,Ahmedabad,Fashion,Gold,2025-03-15
+49,25-34,Delhi,Electronics,Silver,2024-04-13
+50,45-54,Pune,Home & Kitchen,Gold,2023-12-27
+51,18-24,Mumbai,Home & Kitchen,Gold,2022-04-21
+52,25-34,Hyderabad,Fashion,Silver,2022-08-12
+53,45-54,Bangalore,Books,Silver,2022-10-15
+54,45-54,Bhopal,Sports,Free,2022-06-04
+55,55+,Kochi,Electronics,Platinum,2025-08-28
+56,25-34,Pune,Home & Kitchen,Silver,2023-04-30
+57,18-24,Bangalore,Home & Kitchen,Free,2024-04-01
+58,35-44,Coimbatore,Home & Kitchen,Free,2024-03-10
+59,55+,Chandigarh,Beauty,Silver,2025-11-27
+60,35-44,Hyderabad,Electronics,Silver,2023-01-24
+61,18-24,Indore,Books,Free,2025-01-15
+62,45-54,Jaipur,Sports,Free,2025-04-11
+63,18-24,Kochi,Fashion,Free,2024-11-06
+64,25-34,Pune,Electronics,Platinum,2022-05-20
+65,25-34,Lucknow,Sports,Free,2025-03-12
+66,45-54,Chandigarh,Sports,Silver,2022-06-17
+67,35-44,Hyderabad,Beauty,Gold,2023-10-10
+68,35-44,Pune,Fashion,Silver,2023-05-04
+69,45-54,Kolkata,Electronics,Free,2023-09-07
+70,55+,Delhi,Electronics,Silver,2025-06-26
+71,35-44,Bangalore,Books,Gold,2024-11-02
+72,35-44,Chennai,Fashion,Silver,2023-05-16
+73,35-44,Lucknow,Beauty,Silver,2025-01-17
+74,55+,Chennai,Beauty,Free,2025-09-29
+75,35-44,Delhi,Electronics,Gold,2022-10-03
+76,35-44,Chennai,Sports,Free,2022-11-15
+77,25-34,Chandigarh,Beauty,Gold,2023-12-04
+78,45-54,Chennai,Electronics,Free,2024-11-01
+79,35-44,Mumbai,Electronics,Free,2024-05-17
+80,35-44,Bangalore,Beauty,Silver,2022-09-25
+81,45-54,Jaipur,Electronics,Free,2025-12-16
+82,25-34,Jaipur,Electronics,Gold,2025-11-16
+83,55+,Bangalore,Home & Kitchen,Free,2025-04-07
+84,35-44,Coimbatore,Electronics,Gold,2023-09-24
+85,25-34,Chandigarh,Electronics,Free,2023-03-07
+86,45-54,Lucknow,Beauty,Free,2025-02-20
+87,25-34,Bhopal,Fashion,Gold,2023-04-30
+88,25-34,Indore,Books,Gold,2022-02-20
+89,25-34,Chennai,Fashion,Gold,2024-04-23
+90,45-54,Kochi,Electronics,Gold,2022-08-10
+91,25-34,Kochi,Home & Kitchen,Free,2023-04-01
+92,25-34,Mumbai,Beauty,Free,2023-04-12
+93,35-44,Kochi,Electronics,Platinum,2023-11-04
+94,35-44,Chandigarh,Sports,Free,2023-07-26
+95,35-44,Mumbai,Electronics,Gold,2025-01-03
+96,25-34,Lucknow,Books,Free,2023-06-19
+97,45-54,Kolkata,Beauty,Gold,2025-05-06
+98,55+,Jaipur,Electronics,Free,2024-06-12
+99,25-34,Chennai,Electronics,Gold,2025-03-26
+100,55+,Coimbatore,Sports,Silver,2022-01-04
+101,25-34,Kolkata,Home & Kitchen,Free,2025-10-05
+102,35-44,Lucknow,Books,Silver,2025-09-22
+103,35-44,Jaipur,Books,Silver,2022-09-13
+104,45-54,Indore,Books,Silver,2023-10-31
+105,45-54,Chandigarh,Home & Kitchen,Silver,2023-01-28
+106,55+,Lucknow,Books,Silver,2022-12-23
+107,35-44,Chennai,Fashion,Silver,2022-01-01
+108,55+,Chandigarh,Books,Silver,2025-04-02
+109,25-34,Jaipur,Home & Kitchen,Gold,2024-06-24
+110,18-24,Chennai,Sports,Silver,2022-12-14
+111,35-44,Delhi,Fashion,Silver,2025-06-22
+112,25-34,Bangalore,Electronics,Free,2023-04-06
+113,55+,Kochi,Electronics,Silver,2024-08-31
+114,55+,Hyderabad,Beauty,Silver,2025-07-13
+115,45-54,Hyderabad,Fashion,Silver,2024-10-09
+116,18-24,Bhopal,Home & Kitchen,Free,2022-01-12
+117,55+,Ahmedabad,Electronics,Silver,2025-11-26
+118,45-54,Bangalore,Home & Kitchen,Silver,2022-09-06
+119,55+,Kolkata,Home & Kitchen,Silver,2025-02-18
+120,45-54,Kochi,Sports,Silver,2024-10-30
+121,45-54,Ahmedabad,Books,Gold,2022-11-22
+122,35-44,Bhopal,Sports,Silver,2025-07-29
+123,35-44,Ahmedabad,Electronics,Gold,2023-05-05
+124,35-44,Kolkata,Books,Gold,2023-04-26
+125,25-34,Bangalore,Fashion,Free,2022-06-15
+126,25-34,Delhi,Home & Kitchen,Silver,2022-11-09
+127,45-54,Pune,Electronics,Free,2025-01-16
+128,45-54,Coimbatore,Sports,Platinum,2024-05-10
+129,55+,Pune,Home & Kitchen,Free,2022-02-10
+130,35-44,Bhopal,Home & Kitchen,Gold,2023-12-22
+131,55+,Indore,Beauty,Silver,2024-05-08
+132,25-34,Ahmedabad,Fashion,Free,2025-05-20
+133,18-24,Pune,Books,Silver,2024-09-21
+134,25-34,Kochi,Home & Kitchen,Platinum,2024-04-08
+135,55+,Mumbai,Home & Kitchen,Silver,2025-06-28
+136,18-24,Delhi,Beauty,Silver,2025-09-19
+137,25-34,Mumbai,Books,Free,2024-08-03
+138,45-54,Kolkata,Books,Gold,2023-03-10
+139,35-44,Bhopal,Home & Kitchen,Free,2024-02-16
+140,45-54,Mumbai,Beauty,Silver,2022-06-17
+141,25-34,Chandigarh,Electronics,Gold,2023-12-18
+142,18-24,Bhopal,Electronics,Platinum,2025-08-27
+143,18-24,Lucknow,Fashion,Free,2023-02-13
+144,18-24,Lucknow,Fashion,Silver,2024-08-27
+145,35-44,Bangalore,Sports,Silver,2023-06-09
+146,25-34,Chennai,Electronics,Silver,2022-08-23
+147,55+,Chandigarh,Home & Kitchen,Free,2023-10-01
+148,18-24,Lucknow,Beauty,Gold,2023-02-11
+149,18-24,Indore,Books,Gold,2023-05-13
+150,18-24,Bhopal,Sports,Gold,2025-05-14
+151,55+,Pune,Beauty,Free,2023-12-13
+152,35-44,Mumbai,Home & Kitchen,Gold,2024-11-02
+153,45-54,Kolkata,Beauty,Gold,2022-08-05
+154,25-34,Pune,Fashion,Gold,2024-07-30
+155,35-44,Lucknow,Sports,Gold,2025-08-25
+156,45-54,Kochi,Beauty,Silver,2024-08-10
+157,25-34,Kochi,Electronics,Free,2023-10-23
+158,25-34,Bhopal,Home & Kitchen,Silver,2024-07-12
+159,45-54,Kolkata,Electronics,Silver,2025-09-30
+160,25-34,Ahmedabad,Fashion,Free,2023-10-28
+161,35-44,Chennai,Sports,Gold,2023-06-14
+162,55+,Mumbai,Sports,Platinum,2023-07-20
+163,25-34,Indore,Home & Kitchen,Silver,2022-06-25
+164,45-54,Chandigarh,Beauty,Silver,2023-05-08
+165,18-24,Chennai,Fashion,Silver,2022-02-05
+166,35-44,Chandigarh,Sports,Free,2023-05-14
+167,55+,Kolkata,Home & Kitchen,Platinum,2025-02-07
+168,35-44,Kolkata,Beauty,Silver,2025-02-01
+169,35-44,Hyderabad,Electronics,Gold,2023-09-20
+170,18-24,Indore,Sports,Platinum,2023-10-09
+171,25-34,Hyderabad,Fashion,Gold,2025-11-14
+172,55+,Bhopal,Sports,Silver,2023-07-21
+173,25-34,Chennai,Fashion,Free,2022-07-25
+174,18-24,Indore,Sports,Free,2023-09-12
+175,18-24,Jaipur,Books,Silver,2022-04-04
+176,45-54,Delhi,Electronics,Silver,2022-09-16
+177,45-54,Ahmedabad,Books,Free,2024-08-19
+178,35-44,Kochi,Home & Kitchen,Free,2022-04-16
+179,45-54,Ahmedabad,Electronics,Silver,2022-05-14
+180,18-24,Bangalore,Fashion,Gold,2025-11-06
+181,18-24,Hyderabad,Electronics,Silver,2023-09-15
+182,55+,Lucknow,Sports,Free,2024-05-02
+183,45-54,Ahmedabad,Home & Kitchen,Free,2024-12-06
+184,45-54,Chennai,Sports,Silver,2025-04-20
+185,18-24,Bhopal,Fashion,Silver,2025-06-02
+186,18-24,Bangalore,Fashion,Free,2023-06-26
+187,25-34,Mumbai,Home & Kitchen,Silver,2022-06-03
+188,45-54,Chennai,Electronics,Free,2025-05-01
+189,35-44,Indore,Home & Kitchen,Free,2025-12-18
+190,35-44,Bhopal,Beauty,Silver,2023-04-24
+191,45-54,Delhi,Sports,Free,2023-02-10
+192,35-44,Kochi,Fashion,Free,2022-11-02
+193,35-44,Lucknow,Beauty,Gold,2022-12-06
+194,45-54,Delhi,Home & Kitchen,Silver,2023-08-15
+195,45-54,Chennai,Sports,Silver,2025-12-04
+196,18-24,Lucknow,Electronics,Gold,2024-06-15
+197,55+,Chennai,Electronics,Free,2023-10-23
+198,55+,Lucknow,Electronics,Platinum,2025-10-12
+199,35-44,Lucknow,Electronics,Gold,2025-10-08
+200,45-54,Jaipur,Beauty,Silver,2022-12-25
+201,25-34,Lucknow,Home & Kitchen,Silver,2023-07-24
+202,18-24,Ahmedabad,Books,Silver,2024-10-04
+203,18-24,Kochi,Fashion,Free,2023-10-20
+204,45-54,Chennai,Beauty,Platinum,2025-11-21
+205,18-24,Ahmedabad,Electronics,Free,2025-01-31
+206,18-24,Bhopal,Home & Kitchen,Gold,2023-10-25
+207,55+,Ahmedabad,Home & Kitchen,Free,2022-01-03
+208,35-44,Lucknow,Home & Kitchen,Silver,2024-11-27
+209,25-34,Chennai,Sports,Free,2022-04-16
+210,45-54,Coimbatore,Beauty,Silver,2023-08-13
+211,55+,Bhopal,Fashion,Gold,2022-03-01
+212,55+,Mumbai,Sports,Silver,2023-09-29
+213,18-24,Ahmedabad,Electronics,Silver,2023-04-06
+214,45-54,Coimbatore,Beauty,Free,2022-11-12
+215,35-44,Pune,Home & Kitchen,Platinum,2025-12-15
+216,45-54,Jaipur,Fashion,Free,2023-05-15
+217,55+,Indore,Fashion,Gold,2025-05-12
+218,45-54,Kolkata,Sports,Free,2023-07-20
+219,35-44,Indore,Books,Gold,2022-01-06
+220,45-54,Kochi,Fashion,Silver,2025-04-02
+221,35-44,Kolkata,Sports,Gold,2024-09-18
+222,45-54,Coimbatore,Books,Gold,2024-02-12
+223,25-34,Lucknow,Home & Kitchen,Free,2025-11-29
+224,18-24,Kolkata,Beauty,Silver,2024-04-21
+225,45-54,Chandigarh,Beauty,Platinum,2024-02-20
+226,18-24,Bangalore,Sports,Platinum,2024-10-11
+227,18-24,Kochi,Home & Kitchen,Free,2023-11-11
+228,18-24,Indore,Fashion,Silver,2024-07-24
+229,25-34,Delhi,Home & Kitchen,Gold,2025-09-02
+230,35-44,Lucknow,Beauty,Free,2023-06-27
+231,35-44,Kochi,Beauty,Gold,2022-06-14
+232,35-44,Chandigarh,Beauty,Gold,2024-02-18
+233,55+,Mumbai,Sports,Free,2024-09-26
+234,35-44,Hyderabad,Beauty,Free,2025-07-16
+235,18-24,Ahmedabad,Fashion,Silver,2022-07-21
+236,18-24,Kolkata,Electronics,Free,2022-03-01
+237,45-54,Bangalore,Fashion,Silver,2024-02-07
+238,25-34,Bangalore,Fashion,Free,2025-03-05
+239,55+,Chandigarh,Fashion,Silver,2024-02-23
+240,25-34,Hyderabad,Home & Kitchen,Silver,2025-04-09
+241,35-44,Chandigarh,Electronics,Gold,2024-07-30
+242,35-44,Chandigarh,Sports,Free,2024-08-10
+243,35-44,Lucknow,Books,Silver,2024-06-23
+244,35-44,Ahmedabad,Books,Free,2024-05-18
+245,45-54,Delhi,Fashion,Free,2024-02-27
+246,55+,Chennai,Beauty,Free,2024-01-06
+247,45-54,Chennai,Electronics,Silver,2025-09-10
+248,18-24,Coimbatore,Sports,Gold,2025-11-05
+249,25-34,Lucknow,Books,Free,2023-08-10
+250,55+,Chennai,Beauty,Gold,2023-01-25
+251,25-34,Chandigarh,Electronics,Platinum,2025-09-12
+252,18-24,Chennai,Home & Kitchen,Free,2025-08-16
+253,25-34,Delhi,Books,Free,2024-01-18
+254,25-34,Hyderabad,Fashion,Gold,2024-04-30
+255,55+,Jaipur,Books,Gold,2024-01-20
+256,45-54,Bhopal,Books,Gold,2023-06-11
+257,18-24,Ahmedabad,Electronics,Free,2023-11-25
+258,45-54,Kochi,Sports,Free,2023-04-08
+259,18-24,Chennai,Sports,Free,2024-03-19
+260,35-44,Lucknow,Home & Kitchen,Gold,2024-01-25
+261,18-24,Chandigarh,Fashion,Silver,2024-01-31
+262,55+,Kolkata,Sports,Free,2025-06-22
+263,45-54,Coimbatore,Beauty,Free,2022-05-10
+264,18-24,Bangalore,Electronics,Platinum,2024-04-16
+265,45-54,Delhi,Electronics,Free,2023-09-16
+266,25-34,Pune,Home & Kitchen,Free,2025-01-05
+267,55+,Pune,Sports,Gold,2025-11-27
+268,45-54,Chandigarh,Electronics,Gold,2022-11-13
+269,45-54,Chennai,Electronics,Silver,2025-06-14
+270,45-54,Ahmedabad,Fashion,Gold,2023-03-21
+271,35-44,Jaipur,Beauty,Free,2022-07-23
+272,35-44,Hyderabad,Electronics,Platinum,2024-03-26
+273,18-24,Chandigarh,Fashion,Silver,2024-07-20
+274,18-24,Mumbai,Books,Free,2025-05-07
+275,55+,Hyderabad,Electronics,Gold,2022-09-15
+276,25-34,Lucknow,Fashion,Gold,2025-02-09
+277,35-44,Bhopal,Fashion,Gold,2023-04-23
+278,18-24,Chennai,Fashion,Platinum,2025-05-05
+279,35-44,Bhopal,Fashion,Free,2025-01-11
+280,25-34,Mumbai,Books,Gold,2022-02-22
+281,55+,Kolkata,Electronics,Free,2023-05-03
+282,25-34,Indore,Home & Kitchen,Silver,2022-04-18
+283,45-54,Ahmedabad,Books,Silver,2022-05-11
+284,45-54,Jaipur,Fashion,Platinum,2022-08-12
+285,55+,Chennai,Home & Kitchen,Silver,2022-03-30
+286,18-24,Ahmedabad,Home & Kitchen,Silver,2022-03-05
+287,45-54,Indore,Home & Kitchen,Free,2022-08-10
+288,35-44,Lucknow,Fashion,Free,2022-06-15
+289,55+,Chandigarh,Sports,Silver,2023-07-18
+290,45-54,Lucknow,Sports,Free,2023-10-28
+291,55+,Pune,Electronics,Gold,2024-11-01
+292,55+,Indore,Fashion,Silver,2022-08-23
+293,45-54,Kolkata,Home & Kitchen,Free,2023-04-13
+294,35-44,Pune,Books,Silver,2022-07-14
+295,25-34,Chandigarh,Home & Kitchen,Free,2024-02-06
+296,18-24,Pune,Electronics,Gold,2022-06-24
+297,25-34,Jaipur,Electronics,Silver,2024-02-03
+298,55+,Kolkata,Beauty,Free,2025-02-24
+299,45-54,Kochi,Beauty,Free,2023-12-26
+300,55+,Chennai,Books,Free,2023-08-13
+301,25-34,Bangalore,Beauty,Silver,2024-11-05
+302,35-44,Kochi,Sports,Free,2022-08-10
+303,55+,Hyderabad,Home & Kitchen,Gold,2023-07-25
+304,55+,Chandigarh,Beauty,Silver,2025-06-27
+305,35-44,Mumbai,Fashion,Free,2025-06-01
+306,35-44,Kolkata,Electronics,Free,2023-09-25
+307,55+,Chandigarh,Home & Kitchen,Free,2022-10-21
+308,18-24,Delhi,Beauty,Silver,2025-07-20
+309,45-54,Ahmedabad,Books,Free,2024-02-10
+310,35-44,Bhopal,Sports,Silver,2023-10-01
+311,25-34,Bangalore,Sports,Free,2022-04-18
+312,35-44,Ahmedabad,Beauty,Silver,2022-06-17
+313,45-54,Pune,Books,Free,2025-05-28
+314,18-24,Kolkata,Home & Kitchen,Free,2024-11-15
+315,55+,Ahmedabad,Sports,Silver,2025-10-20
+316,25-34,Pune,Sports,Free,2022-04-04
+317,35-44,Hyderabad,Fashion,Gold,2023-02-23
+318,35-44,Delhi,Electronics,Silver,2023-08-16
+319,25-34,Bangalore,Home & Kitchen,Silver,2024-05-31
+320,55+,Jaipur,Beauty,Gold,2023-04-17
+321,45-54,Kochi,Beauty,Free,2022-05-28
+322,45-54,Coimbatore,Electronics,Gold,2022-02-08
+323,45-54,Lucknow,Home & Kitchen,Gold,2025-03-25
+324,35-44,Delhi,Home & Kitchen,Free,2024-05-05
+325,25-34,Bhopal,Sports,Silver,2023-10-28
+326,35-44,Delhi,Home & Kitchen,Gold,2025-11-13
+327,45-54,Lucknow,Home & Kitchen,Silver,2023-05-14
+328,35-44,Indore,Books,Free,2024-03-21
+329,18-24,Jaipur,Beauty,Free,2022-12-11
+330,25-34,Coimbatore,Books,Free,2024-11-10
+331,25-34,Hyderabad,Electronics,Free,2025-08-14
+332,25-34,Lucknow,Fashion,Gold,2023-02-09
+333,18-24,Bangalore,Beauty,Silver,2025-09-04
+334,55+,Ahmedabad,Beauty,Platinum,2025-02-28
+335,55+,Kolkata,Beauty,Free,2025-03-02
+336,18-24,Ahmedabad,Home & Kitchen,Silver,2024-06-19
+337,55+,Mumbai,Books,Silver,2023-07-17
+338,45-54,Ahmedabad,Electronics,Free,2023-09-28
+339,18-24,Chandigarh,Electronics,Silver,2023-08-11
+340,45-54,Ahmedabad,Sports,Silver,2024-11-04
+341,45-54,Coimbatore,Sports,Silver,2022-03-26
+342,55+,Ahmedabad,Sports,Free,2023-10-21
+343,45-54,Delhi,Books,Platinum,2022-05-07
+344,55+,Chandigarh,Fashion,Free,2022-06-22
+345,45-54,Ahmedabad,Sports,Silver,2025-12-20
+346,35-44,Kolkata,Books,Free,2022-11-22
+347,55+,Mumbai,Beauty,Silver,2023-11-24
+348,35-44,Delhi,Sports,Silver,2022-05-15
+349,35-44,Indore,Beauty,Platinum,2023-08-05
+350,25-34,Kolkata,Electronics,Silver,2025-05-19
+351,35-44,Chennai,Beauty,Silver,2022-10-17
+352,25-34,Lucknow,Beauty,Platinum,2024-03-13
+353,55+,Pune,Beauty,Gold,2023-09-27
+354,55+,Delhi,Beauty,Silver,2022-09-19
+355,35-44,Mumbai,Books,Free,2024-11-07
+356,35-44,Bhopal,Home & Kitchen,Free,2023-03-15
+357,25-34,Delhi,Books,Gold,2022-10-09
+358,55+,Bhopal,Sports,Gold,2022-07-27
+359,18-24,Chandigarh,Books,Gold,2024-12-14
+360,25-34,Lucknow,Home & Kitchen,Free,2025-06-19
+361,55+,Bhopal,Fashion,Gold,2023-01-06
+362,45-54,Kolkata,Beauty,Gold,2022-03-31
+363,55+,Chennai,Beauty,Gold,2024-06-28
+364,55+,Hyderabad,Books,Platinum,2023-04-25
+365,25-34,Kolkata,Beauty,Platinum,2024-08-18
+366,45-54,Bhopal,Books,Gold,2024-06-21
+367,55+,Pune,Fashion,Gold,2024-10-26
+368,25-34,Kochi,Books,Free,2025-05-23
+369,35-44,Jaipur,Electronics,Gold,2024-09-11
+370,18-24,Chennai,Electronics,Gold,2024-11-22
+371,45-54,Coimbatore,Sports,Free,2023-07-13
+372,18-24,Coimbatore,Fashion,Gold,2024-06-14
+373,18-24,Pune,Electronics,Free,2023-12-17
+374,25-34,Pune,Electronics,Free,2024-02-05
+375,35-44,Coimbatore,Electronics,Gold,2022-02-27
+376,35-44,Bhopal,Fashion,Free,2025-08-24
+377,45-54,Indore,Fashion,Gold,2023-08-11
+378,45-54,Lucknow,Electronics,Platinum,2024-08-18
+379,35-44,Hyderabad,Fashion,Silver,2022-02-08
+380,55+,Pune,Electronics,Gold,2025-05-31
+381,35-44,Delhi,Electronics,Free,2023-05-02
+382,55+,Ahmedabad,Electronics,Free,2025-08-01
+383,55+,Jaipur,Electronics,Silver,2024-10-20
+384,25-34,Indore,Fashion,Free,2025-03-23
+385,55+,Kolkata,Fashion,Silver,2022-01-04
+386,18-24,Jaipur,Books,Free,2023-01-19
+387,55+,Jaipur,Sports,Silver,2024-12-13
+388,45-54,Mumbai,Beauty,Free,2024-03-10
+389,35-44,Indore,Electronics,Free,2024-02-04
+390,35-44,Hyderabad,Beauty,Silver,2022-05-19
+391,55+,Indore,Books,Free,2022-08-01
+392,55+,Kolkata,Beauty,Free,2023-12-23
+393,45-54,Indore,Home & Kitchen,Silver,2025-11-03
+394,18-24,Indore,Home & Kitchen,Free,2022-10-04
+395,18-24,Bhopal,Fashion,Gold,2023-02-17
+396,35-44,Jaipur,Home & Kitchen,Platinum,2023-10-09
+397,45-54,Chennai,Electronics,Gold,2025-01-17
+398,35-44,Kolkata,Electronics,Gold,2023-01-27
+399,35-44,Delhi,Books,Silver,2023-11-11
+400,45-54,Coimbatore,Home & Kitchen,Free,2024-03-30
+401,45-54,Indore,Home & Kitchen,Free,2023-01-18
+402,35-44,Bhopal,Electronics,Gold,2024-11-29
+403,45-54,Lucknow,Fashion,Silver,2022-06-11
+404,18-24,Delhi,Books,Silver,2023-10-20
+405,45-54,Lucknow,Beauty,Silver,2023-09-20
+406,45-54,Kolkata,Home & Kitchen,Free,2025-11-13
+407,55+,Pune,Books,Silver,2023-12-24
+408,18-24,Chandigarh,Beauty,Silver,2022-04-28
+409,25-34,Mumbai,Fashion,Gold,2024-11-16
+410,45-54,Mumbai,Fashion,Free,2025-10-20
+411,35-44,Kolkata,Home & Kitchen,Platinum,2025-08-14
+412,55+,Bangalore,Beauty,Silver,2022-03-08
+413,35-44,Ahmedabad,Electronics,Silver,2024-01-30
+414,35-44,Pune,Books,Silver,2024-12-20
+415,18-24,Mumbai,Beauty,Free,2023-05-27
+416,45-54,Coimbatore,Sports,Free,2024-11-26
+417,45-54,Hyderabad,Sports,Free,2023-06-18
+418,25-34,Delhi,Fashion,Gold,2024-10-02
+419,25-34,Coimbatore,Beauty,Silver,2024-07-14
+420,35-44,Chandigarh,Books,Gold,2022-06-29
+421,55+,Chennai,Books,Gold,2025-01-31
+422,25-34,Bhopal,Books,Silver,2025-12-28
+423,25-34,Bhopal,Fashion,Free,2022-09-06
+424,18-24,Kolkata,Sports,Silver,2024-10-08
+425,55+,Bangalore,Sports,Gold,2024-08-15
+426,35-44,Pune,Beauty,Gold,2022-05-15
+427,45-54,Bhopal,Home & Kitchen,Gold,2024-12-12
+428,25-34,Kolkata,Beauty,Free,2022-06-01
+429,55+,Kolkata,Fashion,Gold,2024-08-12
+430,55+,Bangalore,Fashion,Silver,2025-02-03
+431,18-24,Jaipur,Fashion,Free,2022-04-24
+432,35-44,Coimbatore,Beauty,Free,2022-11-28
+433,35-44,Kochi,Electronics,Free,2024-11-28
+434,55+,Chennai,Fashion,Silver,2025-07-24
+435,55+,Delhi,Sports,Silver,2025-06-12
+436,55+,Bangalore,Fashion,Silver,2025-04-27
+437,35-44,Kochi,Sports,Free,2025-05-24
+438,18-24,Mumbai,Beauty,Gold,2022-02-28
+439,25-34,Bhopal,Sports,Silver,2023-06-27
+440,18-24,Ahmedabad,Beauty,Silver,2025-08-01
+441,35-44,Ahmedabad,Fashion,Gold,2025-08-07
+442,45-54,Chennai,Home & Kitchen,Free,2025-11-03
+443,25-34,Ahmedabad,Home & Kitchen,Silver,2022-05-03
+444,35-44,Lucknow,Fashion,Free,2023-02-22
+445,35-44,Pune,Fashion,Gold,2023-10-16
+446,55+,Delhi,Books,Free,2024-11-20
+447,35-44,Ahmedabad,Fashion,Free,2022-09-08
+448,35-44,Pune,Sports,Silver,2022-04-14
+449,35-44,Coimbatore,Sports,Gold,2022-11-24
+450,25-34,Ahmedabad,Sports,Silver,2023-01-24
+451,45-54,Mumbai,Electronics,Platinum,2023-09-24
+452,45-54,Hyderabad,Fashion,Silver,2024-11-01
+453,18-24,Chennai,Home & Kitchen,Silver,2022-04-10
+454,45-54,Chennai,Sports,Free,2025-09-01
+455,45-54,Bangalore,Books,Gold,2022-08-09
+456,35-44,Mumbai,Home & Kitchen,Free,2024-04-05
+457,25-34,Kolkata,Sports,Free,2025-02-24
+458,55+,Ahmedabad,Sports,Free,2024-03-02
+459,55+,Delhi,Fashion,Platinum,2025-06-30
+460,35-44,Bhopal,Books,Silver,2024-03-17
+461,25-34,Hyderabad,Sports,Silver,2024-01-19
+462,18-24,Mumbai,Electronics,Free,2024-10-21
+463,45-54,Jaipur,Home & Kitchen,Free,2023-11-14
+464,25-34,Kolkata,Sports,Free,2024-11-21
+465,55+,Indore,Books,Silver,2024-03-15
+466,55+,Jaipur,Home & Kitchen,Gold,2024-11-04
+467,45-54,Kochi,Electronics,Free,2023-09-06
+468,18-24,Pune,Sports,Free,2025-10-11
+469,18-24,Lucknow,Home & Kitchen,Free,2025-11-10
+470,55+,Lucknow,Fashion,Gold,2025-09-04
+471,45-54,Bangalore,Sports,Silver,2025-04-10
+472,45-54,Bangalore,Beauty,Free,2025-06-23
+473,18-24,Hyderabad,Electronics,Silver,2025-03-18
+474,25-34,Pune,Beauty,Free,2024-05-07
+475,55+,Coimbatore,Home & Kitchen,Gold,2024-10-24
+476,25-34,Jaipur,Fashion,Silver,2022-05-08
+477,45-54,Jaipur,Home & Kitchen,Free,2025-09-18
+478,45-54,Coimbatore,Sports,Free,2022-12-21
+479,35-44,Lucknow,Home & Kitchen,Free,2023-12-27
+480,35-44,Jaipur,Books,Free,2023-05-20
+481,35-44,Indore,Fashion,Silver,2023-09-02
+482,35-44,Ahmedabad,Books,Silver,2024-09-28
+483,35-44,Delhi,Sports,Silver,2023-07-15
+484,45-54,Kochi,Books,Platinum,2024-02-17
+485,35-44,Mumbai,Books,Platinum,2022-10-27
+486,35-44,Coimbatore,Home & Kitchen,Silver,2022-06-11
+487,25-34,Hyderabad,Sports,Free,2024-09-08
+488,35-44,Bangalore,Electronics,Silver,2025-02-25
+489,25-34,Hyderabad,Electronics,Silver,2025-04-16
+490,25-34,Chandigarh,Fashion,Free,2024-12-23
+491,35-44,Indore,Home & Kitchen,Free,2024-04-26
+492,18-24,Jaipur,Fashion,Silver,2022-10-09
+493,45-54,Chandigarh,Fashion,Gold,2024-09-01
+494,35-44,Chennai,Beauty,Free,2023-08-12
+495,55+,Hyderabad,Sports,Gold,2022-07-03
+496,25-34,Pune,Fashion,Platinum,2022-03-18
+497,45-54,Bhopal,Home & Kitchen,Free,2022-03-16
+498,18-24,Mumbai,Books,Silver,2023-08-16
+499,35-44,Chennai,Home & Kitchen,Platinum,2022-08-08
+500,55+,Ahmedabad,Fashion,Gold,2025-01-17

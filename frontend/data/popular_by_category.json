@@ -1,0 +1,494 @@
+{
+  "Sports": [
+    {
+      "product_id": 161,
+      "product_name": "Adidas Victory Yoga",
+      "category": "Sports",
+      "brand": "Adidas",
+      "price": 11454.14,
+      "avg_rating": 3.1,
+      "rating_count": 62,
+      "popularity_score": 180
+    },
+    {
+      "product_id": 139,
+      "product_name": "Nike Elite Yoga",
+      "category": "Sports",
+      "brand": "Nike",
+      "price": 7592.82,
+      "avg_rating": 4.0,
+      "rating_count": 4337,
+      "popularity_score": 170
+    },
+    {
+      "product_id": 134,
+      "product_name": "Adidas Pro Yoga",
+      "category": "Sports",
+      "brand": "Adidas",
+      "price": 13468.58,
+      "avg_rating": 2.9,
+      "rating_count": 1018,
+      "popularity_score": 170
+    },
+    {
+      "product_id": 149,
+      "product_name": "Decathlon Victory Fitnes",
+      "category": "Sports",
+      "brand": "Decathlon",
+      "price": 11787.21,
+      "avg_rating": 4.3,
+      "rating_count": 1377,
+      "popularity_score": 168
+    },
+    {
+      "product_id": 142,
+      "product_name": "Nike Pro Running",
+      "category": "Sports",
+      "brand": "Nike",
+      "price": 4079.34,
+      "avg_rating": 2.6,
+      "rating_count": 505,
+      "popularity_score": 165
+    },
+    {
+      "product_id": 143,
+      "product_name": "Decathlon Champion Yoga",
+      "category": "Sports",
+      "brand": "Decathlon",
+      "price": 9501.85,
+      "avg_rating": 3.8,
+      "rating_count": 3413,
+      "popularity_score": 160
+    },
+    {
+      "product_id": 140,
+      "product_name": "Puma Champion Cricket",
+      "category": "Sports",
+      "brand": "Puma",
+      "price": 2152.35,
+      "avg_rating": 4.7,
+      "rating_count": 4666,
+      "popularity_score": 157
+    },
+    {
+      "product_id": 135,
+      "product_name": "Puma Turbo Yoga",
+      "category": "Sports",
+      "brand": "Puma",
+      "price": 4853.65,
+      "avg_rating": 2.8,
+      "rating_count": 2278,
+      "popularity_score": 153
+    }
+  ],
+  "Fashion": [
+    {
+      "product_id": 35,
+      "product_name": "Levis Classic Dresse",
+      "category": "Fashion",
+      "brand": "Levis",
+      "price": 8773.12,
+      "avg_rating": 3.0,
+      "rating_count": 4823,
+      "popularity_score": 201
+    },
+    {
+      "product_id": 50,
+      "product_name": "Nike Classic Jacket",
+      "category": "Fashion",
+      "brand": "Nike",
+      "price": 5461.46,
+      "avg_rating": 3.5,
+      "rating_count": 147,
+      "popularity_score": 192
+    },
+    {
+      "product_id": 45,
+      "product_name": "H&M Urban Jacket",
+      "category": "Fashion",
+      "brand": "H&M",
+      "price": 7406.89,
+      "avg_rating": 3.4,
+      "rating_count": 1156,
+      "popularity_score": 181
+    },
+    {
+      "product_id": 61,
+      "product_name": "Zara Vintage Dresse",
+      "category": "Fashion",
+      "brand": "Zara",
+      "price": 7628.41,
+      "avg_rating": 2.8,
+      "rating_count": 652,
+      "popularity_score": 181
+    },
+    {
+      "product_id": 55,
+      "product_name": "Nike Vintage T-Shirt",
+      "category": "Fashion",
+      "brand": "Nike",
+      "price": 3977.86,
+      "avg_rating": 3.9,
+      "rating_count": 469,
+      "popularity_score": 173
+    },
+    {
+      "product_id": 53,
+      "product_name": "Zara Vintage Sneaker",
+      "category": "Fashion",
+      "brand": "Zara",
+      "price": 1065.49,
+      "avg_rating": 4.9,
+      "rating_count": 3770,
+      "popularity_score": 166
+    },
+    {
+      "product_id": 36,
+      "product_name": "Adidas Vintage Dresse",
+      "category": "Fashion",
+      "brand": "Adidas",
+      "price": 2325.22,
+      "avg_rating": 4.8,
+      "rating_count": 2493,
+      "popularity_score": 165
+    },
+    {
+      "product_id": 59,
+      "product_name": "Adidas Street T-Shirt",
+      "category": "Fashion",
+      "brand": "Adidas",
+      "price": 450.88,
+      "avg_rating": 3.0,
+      "rating_count": 1191,
+      "popularity_score": 162
+    }
+  ],
+  "Beauty": [
+    {
+      "product_id": 175,
+      "product_name": "Maybelline Luxe Fragrance",
+      "category": "Beauty",
+      "brand": "Maybelline",
+      "price": 3764.58,
+      "avg_rating": 3.1,
+      "rating_count": 3795,
+      "popularity_score": 163
+    },
+    {
+      "product_id": 179,
+      "product_name": "Lakme Pure Haircare",
+      "category": "Beauty",
+      "brand": "Lakme",
+      "price": 699.39,
+      "avg_rating": 4.9,
+      "rating_count": 424,
+      "popularity_score": 162
+    },
+    {
+      "product_id": 178,
+      "product_name": "Dove Radiance Grooming",
+      "category": "Beauty",
+      "brand": "Dove",
+      "price": 205.82,
+      "avg_rating": 2.7,
+      "rating_count": 3642,
+      "popularity_score": 156
+    },
+    {
+      "product_id": 190,
+      "product_name": "LOreal Pure Haircare",
+      "category": "Beauty",
+      "brand": "LOreal",
+      "price": 4049.43,
+      "avg_rating": 4.2,
+      "rating_count": 4856,
+      "popularity_score": 148
+    },
+    {
+      "product_id": 185,
+      "product_name": "Maybelline Pure Grooming",
+      "category": "Beauty",
+      "brand": "Maybelline",
+      "price": 4571.12,
+      "avg_rating": 3.8,
+      "rating_count": 3191,
+      "popularity_score": 148
+    },
+    {
+      "product_id": 193,
+      "product_name": "LOreal Natural Skincare",
+      "category": "Beauty",
+      "brand": "LOreal",
+      "price": 102.35,
+      "avg_rating": 4.8,
+      "rating_count": 1660,
+      "popularity_score": 147
+    },
+    {
+      "product_id": 200,
+      "product_name": "Garnier Luxe Skincare",
+      "category": "Beauty",
+      "brand": "Garnier",
+      "price": 2017.85,
+      "avg_rating": 5.0,
+      "rating_count": 4658,
+      "popularity_score": 146
+    },
+    {
+      "product_id": 183,
+      "product_name": "Maybelline Radiance Grooming",
+      "category": "Beauty",
+      "brand": "Maybelline",
+      "price": 528.84,
+      "avg_rating": 3.5,
+      "rating_count": 3444,
+      "popularity_score": 145
+    }
+  ],
+  "Books": [
+    {
+      "product_id": 67,
+      "product_name": "Scholastic Essential Self-Help",
+      "category": "Books",
+      "brand": "Scholastic",
+      "price": 301.45,
+      "avg_rating": 2.5,
+      "rating_count": 2535,
+      "popularity_score": 156
+    },
+    {
+      "product_id": 94,
+      "product_name": "HarperCollins Mastering Self-Help",
+      "category": "Books",
+      "brand": "HarperCollins",
+      "price": 1315.91,
+      "avg_rating": 3.6,
+      "rating_count": 249,
+      "popularity_score": 155
+    },
+    {
+      "product_id": 73,
+      "product_name": "Oxford Essential Sci-Fi",
+      "category": "Books",
+      "brand": "Oxford",
+      "price": 1019.04,
+      "avg_rating": 2.7,
+      "rating_count": 2071,
+      "popularity_score": 153
+    },
+    {
+      "product_id": 91,
+      "product_name": "Oxford Complete Guide to Fiction",
+      "category": "Books",
+      "brand": "Oxford",
+      "price": 704.93,
+      "avg_rating": 3.3,
+      "rating_count": 952,
+      "popularity_score": 142
+    },
+    {
+      "product_id": 93,
+      "product_name": "HarperCollins Essential Comic",
+      "category": "Books",
+      "brand": "HarperCollins",
+      "price": 1162.71,
+      "avg_rating": 4.9,
+      "rating_count": 1909,
+      "popularity_score": 139
+    },
+    {
+      "product_id": 84,
+      "product_name": "Pearson The Art of Comic",
+      "category": "Books",
+      "brand": "Pearson",
+      "price": 306.8,
+      "avg_rating": 3.1,
+      "rating_count": 2918,
+      "popularity_score": 138
+    },
+    {
+      "product_id": 70,
+      "product_name": "Pearson Essential Comic",
+      "category": "Books",
+      "brand": "Pearson",
+      "price": 1740.06,
+      "avg_rating": 2.5,
+      "rating_count": 3399,
+      "popularity_score": 138
+    },
+    {
+      "product_id": 68,
+      "product_name": "Scholastic The Art of Sci-Fi",
+      "category": "Books",
+      "brand": "Scholastic",
+      "price": 350.76,
+      "avg_rating": 3.0,
+      "rating_count": 3686,
+      "popularity_score": 133
+    }
+  ],
+  "Electronics": [
+    {
+      "product_id": 11,
+      "product_name": "OnePlus Air Laptop",
+      "category": "Electronics",
+      "brand": "OnePlus",
+      "price": 113455.19,
+      "avg_rating": 4.7,
+      "rating_count": 680,
+      "popularity_score": 190
+    },
+    {
+      "product_id": 8,
+      "product_name": "Boat Air Smartwatche",
+      "category": "Electronics",
+      "brand": "Boat",
+      "price": 18493.95,
+      "avg_rating": 4.8,
+      "rating_count": 2426,
+      "popularity_score": 184
+    },
+    {
+      "product_id": 4,
+      "product_name": "Apple Lite Headphone",
+      "category": "Electronics",
+      "brand": "Apple",
+      "price": 100718.12,
+      "avg_rating": 3.0,
+      "rating_count": 1161,
+      "popularity_score": 181
+    },
+    {
+      "product_id": 31,
+      "product_name": "Dell Ultra Smartwatche",
+      "category": "Electronics",
+      "brand": "Dell",
+      "price": 127550.8,
+      "avg_rating": 3.3,
+      "rating_count": 1192,
+      "popularity_score": 179
+    },
+    {
+      "product_id": 26,
+      "product_name": "Samsung Ultra Laptop",
+      "category": "Electronics",
+      "brand": "Samsung",
+      "price": 76079.48,
+      "avg_rating": 3.2,
+      "rating_count": 4729,
+      "popularity_score": 176
+    },
+    {
+      "product_id": 19,
+      "product_name": "Lenovo Lite Tablet",
+      "category": "Electronics",
+      "brand": "Lenovo",
+      "price": 67831.03,
+      "avg_rating": 4.8,
+      "rating_count": 3102,
+      "popularity_score": 167
+    },
+    {
+      "product_id": 25,
+      "product_name": "Samsung Ultra Smartwatche",
+      "category": "Electronics",
+      "brand": "Samsung",
+      "price": 111339.62,
+      "avg_rating": 3.5,
+      "rating_count": 1929,
+      "popularity_score": 164
+    },
+    {
+      "product_id": 30,
+      "product_name": "Lenovo Air Smartwatche",
+      "category": "Electronics",
+      "brand": "Lenovo",
+      "price": 63031.37,
+      "avg_rating": 2.9,
+      "rating_count": 3093,
+      "popularity_score": 163
+    }
+  ],
+  "Home & Kitchen": [
+    {
+      "product_id": 127,
+      "product_name": "IKEA Smart Furniture",
+      "category": "Home & Kitchen",
+      "brand": "IKEA",
+      "price": 31354.09,
+      "avg_rating": 4.3,
+      "rating_count": 1928,
+      "popularity_score": 176
+    },
+    {
+      "product_id": 111,
+      "product_name": "IKEA Smart Decor",
+      "category": "Home & Kitchen",
+      "brand": "IKEA",
+      "price": 43290.47,
+      "avg_rating": 2.8,
+      "rating_count": 1951,
+      "popularity_score": 167
+    },
+    {
+      "product_id": 121,
+      "product_name": "Bajaj Elegant Appliance",
+      "category": "Home & Kitchen",
+      "brand": "Bajaj",
+      "price": 42534.29,
+      "avg_rating": 4.5,
+      "rating_count": 3268,
+      "popularity_score": 167
+    },
+    {
+      "product_id": 100,
+      "product_name": "Nilkamal Premium Storage",
+      "category": "Home & Kitchen",
+      "brand": "Nilkamal",
+      "price": 33670.08,
+      "avg_rating": 3.3,
+      "rating_count": 1964,
+      "popularity_score": 166
+    },
+    {
+      "product_id": 130,
+      "product_name": "Bajaj Compact Appliance",
+      "category": "Home & Kitchen",
+      "brand": "Bajaj",
+      "price": 23988.47,
+      "avg_rating": 3.1,
+      "rating_count": 741,
+      "popularity_score": 165
+    },
+    {
+      "product_id": 122,
+      "product_name": "Prestige Smart Appliance",
+      "category": "Home & Kitchen",
+      "brand": "Prestige",
+      "price": 13572.13,
+      "avg_rating": 4.6,
+      "rating_count": 2776,
+      "popularity_score": 164
+    },
+    {
+      "product_id": 117,
+      "product_name": "Bajaj Elegant Furniture",
+      "category": "Home & Kitchen",
+      "brand": "Bajaj",
+      "price": 41457.39,
+      "avg_rating": 4.4,
+      "rating_count": 3227,
+      "popularity_score": 164
+    },
+    {
+      "product_id": 129,
+      "product_name": "Nilkamal Smart Furniture",
+      "category": "Home & Kitchen",
+      "brand": "Nilkamal",
+      "price": 661.49,
+      "avg_rating": 4.2,
+      "rating_count": 997,
+      "popularity_score": 149
+    }
+  ]
+}

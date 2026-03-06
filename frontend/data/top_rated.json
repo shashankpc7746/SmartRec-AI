@@ -1,0 +1,182 @@
+[
+  {
+    "product_id": 200,
+    "product_name": "Garnier Luxe Skincare",
+    "category": "Beauty",
+    "brand": "Garnier",
+    "price": 2017.85,
+    "avg_rating": 5.0,
+    "rating_count": 4658
+  },
+  {
+    "product_id": 88,
+    "product_name": "Pearson Introduction to Self-Help",
+    "category": "Books",
+    "brand": "Pearson",
+    "price": 385.42,
+    "avg_rating": 5.0,
+    "rating_count": 3964
+  },
+  {
+    "product_id": 110,
+    "product_name": "Bajaj Compact Cookware",
+    "category": "Home & Kitchen",
+    "brand": "Bajaj",
+    "price": 15024.9,
+    "avg_rating": 5.0,
+    "rating_count": 3694
+  },
+  {
+    "product_id": 184,
+    "product_name": "Nivea Luxe Grooming",
+    "category": "Beauty",
+    "brand": "Nivea",
+    "price": 3993.75,
+    "avg_rating": 5.0,
+    "rating_count": 2951
+  },
+  {
+    "product_id": 187,
+    "product_name": "LOreal Pure Fragrance",
+    "category": "Beauty",
+    "brand": "LOreal",
+    "price": 3856.53,
+    "avg_rating": 5.0,
+    "rating_count": 1317
+  },
+  {
+    "product_id": 174,
+    "product_name": "Garnier Pure Skincare",
+    "category": "Beauty",
+    "brand": "Garnier",
+    "price": 1373.82,
+    "avg_rating": 5.0,
+    "rating_count": 264
+  },
+  {
+    "product_id": 191,
+    "product_name": "LOreal Luxe Makeup",
+    "category": "Beauty",
+    "brand": "LOreal",
+    "price": 795.3,
+    "avg_rating": 4.9,
+    "rating_count": 4042
+  },
+  {
+    "product_id": 104,
+    "product_name": "Nilkamal Premium Appliance",
+    "category": "Home & Kitchen",
+    "brand": "Nilkamal",
+    "price": 43302.01,
+    "avg_rating": 4.9,
+    "rating_count": 3979
+  },
+  {
+    "product_id": 53,
+    "product_name": "Zara Vintage Sneaker",
+    "category": "Fashion",
+    "brand": "Zara",
+    "price": 1065.49,
+    "avg_rating": 4.9,
+    "rating_count": 3770
+  },
+  {
+    "product_id": 197,
+    "product_name": "Dove Pure Skincare",
+    "category": "Beauty",
+    "brand": "Dove",
+    "price": 1679.76,
+    "avg_rating": 4.9,
+    "rating_count": 3588
+  },
+  {
+    "product_id": 64,
+    "product_name": "H&M Urban Jacket",
+    "category": "Fashion",
+    "brand": "H&M",
+    "price": 3750.37,
+    "avg_rating": 4.9,
+    "rating_count": 3547
+  },
+  {
+    "product_id": 173,
+    "product_name": "Nivea Radiance Makeup",
+    "category": "Beauty",
+    "brand": "Nivea",
+    "price": 3583.67,
+    "avg_rating": 4.9,
+    "rating_count": 3256
+  },
+  {
+    "product_id": 196,
+    "product_name": "Dove Radiance Grooming",
+    "category": "Beauty",
+    "brand": "Dove",
+    "price": 1929.59,
+    "avg_rating": 4.9,
+    "rating_count": 3250
+  },
+  {
+    "product_id": 29,
+    "product_name": "Dell Pro Tablet",
+    "category": "Electronics",
+    "brand": "Dell",
+    "price": 145870.25,
+    "avg_rating": 4.9,
+    "rating_count": 3132
+  },
+  {
+    "product_id": 198,
+    "product_name": "Garnier Pure Fragrance",
+    "category": "Beauty",
+    "brand": "Garnier",
+    "price": 952.59,
+    "avg_rating": 4.9,
+    "rating_count": 2933
+  },
+  {
+    "product_id": 167,
+    "product_name": "LOreal Radiance Grooming",
+    "category": "Beauty",
+    "brand": "LOreal",
+    "price": 2230.42,
+    "avg_rating": 4.9,
+    "rating_count": 1949
+  },
+  {
+    "product_id": 93,
+    "product_name": "HarperCollins Essential Comic",
+    "category": "Books",
+    "brand": "HarperCollins",
+    "price": 1162.71,
+    "avg_rating": 4.9,
+    "rating_count": 1909
+  },
+  {
+    "product_id": 28,
+    "product_name": "Boat Max Tablet",
+    "category": "Electronics",
+    "brand": "Boat",
+    "price": 10081.69,
+    "avg_rating": 4.9,
+    "rating_count": 1444
+  },
+  {
+    "product_id": 89,
+    "product_name": "Oxford The Art of Sci-Fi",
+    "category": "Books",
+    "brand": "Oxford",
+    "price": 319.53,
+    "avg_rating": 4.9,
+    "rating_count": 1170
+  },
+  {
+    "product_id": 141,
+    "product_name": "Decathlon Elite Fitnes",
+    "category": "Sports",
+    "brand": "Decathlon",
+    "price": 11487.34,
+    "avg_rating": 4.9,
+    "rating_count": 607
+  }
+]

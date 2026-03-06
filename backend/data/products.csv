@@ -1,0 +1,201 @@
+product_id,product_name,category,sub_category,brand,price,price_range,avg_rating,rating_count,stock
+1,Boat Ultra Tablet,Electronics,Tablets,Boat,121512.27,Luxury,3.3,3769,331
+2,Sony Pro Headphone,Electronics,Headphones,Sony,110755.07,Luxury,4.5,4661,345
+3,Sony Neo Laptop,Electronics,Laptops,Sony,128564.83,Luxury,4.7,3513,263
+4,Apple Lite Headphone,Electronics,Headphones,Apple,100718.12,Luxury,3.0,1161,244
+5,OnePlus Pro Headphone,Electronics,Headphones,OnePlus,39856.01,Luxury,3.1,2197,488
+6,Boat Neo Headphone,Electronics,Headphones,Boat,108708.5,Luxury,2.5,2955,354
+7,Samsung Air Laptop,Electronics,Laptops,Samsung,18614.5,Luxury,3.3,3331,351
+8,Boat Air Smartwatche,Electronics,Smartwatches,Boat,18493.95,Luxury,4.8,2426,188
+9,OnePlus Ultra Smartwatche,Electronics,Smartwatches,OnePlus,143645.72,Luxury,3.7,3737,382
+10,Lenovo Lite Smartwatche,Electronics,Smartwatches,Lenovo,105588.17,Luxury,4.8,4413,410
+11,OnePlus Air Laptop,Electronics,Laptops,OnePlus,113455.19,Luxury,4.7,680,269
+12,Lenovo Pro Tablet,Electronics,Tablets,Lenovo,137668.46,Luxury,2.8,4496,462
+13,OnePlus Neo Smartwatche,Electronics,Smartwatches,OnePlus,80961.36,Luxury,2.9,4272,226
+14,OnePlus Air Smartphone,Electronics,Smartphones,OnePlus,87888.0,Luxury,2.7,4190,228
+15,Dell Ultra Smartphone,Electronics,Smartphones,Dell,77472.93,Luxury,3.6,482,286
+16,Boat Air Tablet,Electronics,Tablets,Boat,4242.8,Premium,3.1,34,381
+17,Apple Pro Laptop,Electronics,Laptops,Apple,64129.91,Luxury,4.3,4443,30
+18,Dell Pro Smartphone,Electronics,Smartphones,Dell,43775.52,Luxury,2.9,1119,392
+19,Lenovo Lite Tablet,Electronics,Tablets,Lenovo,67831.03,Luxury,4.8,3102,192
+20,Sony Air Smartphone,Electronics,Smartphones,Sony,129181.7,Luxury,2.8,4411,201
+21,Sony Air Smartwatche,Electronics,Smartwatches,Sony,146828.93,Luxury,4.6,196,500
+22,Dell Air Headphone,Electronics,Headphones,Dell,108144.0,Luxury,3.6,3117,421
+23,OnePlus Lite Laptop,Electronics,Laptops,OnePlus,52576.8,Luxury,3.2,934,16
+24,Samsung Ultra Tablet,Electronics,Tablets,Samsung,31705.16,Luxury,2.8,285,228
+25,Samsung Ultra Smartwatche,Electronics,Smartwatches,Samsung,111339.62,Luxury,3.5,1929,276
+26,Samsung Ultra Laptop,Electronics,Laptops,Samsung,76079.48,Luxury,3.2,4729,163
+27,Lenovo Ultra Smartwatche,Electronics,Smartwatches,Lenovo,45961.9,Luxury,2.9,4280,113
+28,Boat Max Tablet,Electronics,Tablets,Boat,10081.69,Luxury,4.9,1444,320
+29,Dell Pro Tablet,Electronics,Tablets,Dell,145870.25,Luxury,4.9,3132,402
+30,Lenovo Air Smartwatche,Electronics,Smartwatches,Lenovo,63031.37,Luxury,2.9,3093,94
+31,Dell Ultra Smartwatche,Electronics,Smartwatches,Dell,127550.8,Luxury,3.3,1192,412
+32,Samsung Neo Tablet,Electronics,Tablets,Samsung,62487.95,Luxury,3.5,4351,68
+33,OnePlus Max Tablet,Electronics,Tablets,OnePlus,31296.17,Luxury,4.1,3694,433
+34,Nike Modern Sneaker,Fashion,Sneakers,Nike,7327.47,Premium,3.0,2209,193
+35,Levis Classic Dresse,Fashion,Dresses,Levis,8773.12,Premium,3.0,4823,370
+36,Adidas Vintage Dresse,Fashion,Dresses,Adidas,2325.22,Premium,4.8,2493,489
+37,Adidas Urban T-Shirt,Fashion,T-Shirts,Adidas,9631.15,Premium,2.8,3933,468
+38,Puma Modern Jean,Fashion,Jeans,Puma,7125.56,Premium,3.5,1970,282
+39,US Polo Street Sneaker,Fashion,Sneakers,US Polo,3991.42,Premium,3.8,2953,157
+40,Zara Modern Sneaker,Fashion,Sneakers,Zara,8862.28,Premium,3.7,3856,389
+41,Adidas Street Sneaker,Fashion,Sneakers,Adidas,3334.34,Premium,2.6,1822,379
+42,Nike Street Jean,Fashion,Jeans,Nike,5666.12,Premium,4.0,3430,151
+43,Adidas Street Jean,Fashion,Jeans,Adidas,2530.18,Premium,3.9,2023,255
+44,Puma Elite Dresse,Fashion,Dresses,Puma,3573.37,Premium,4.4,4012,494
+45,H&M Urban Jacket,Fashion,Jackets,H&M,7406.89,Premium,3.4,1156,368
+46,H&M Urban Dresse,Fashion,Dresses,H&M,9192.92,Premium,3.9,491,268
+47,US Polo Classic T-Shirt,Fashion,T-Shirts,US Polo,9467.32,Premium,4.2,62,211
+48,US Polo Elite Jean,Fashion,Jeans,US Polo,2543.9,Premium,4.3,84,111
+49,H&M Street Dresse,Fashion,Dresses,H&M,885.37,Mid-Range,4.1,3968,337
+50,Nike Classic Jacket,Fashion,Jackets,Nike,5461.46,Premium,3.5,147,271
+51,Levis Street Sneaker,Fashion,Sneakers,Levis,465.28,Budget,4.5,3537,412
+52,Nike Classic Jean,Fashion,Jeans,Nike,5385.54,Premium,3.1,4322,129
+53,Zara Vintage Sneaker,Fashion,Sneakers,Zara,1065.49,Mid-Range,4.9,3770,289
+54,Puma Urban Jean,Fashion,Jeans,Puma,3208.75,Premium,4.6,670,334
+55,Nike Vintage T-Shirt,Fashion,T-Shirts,Nike,3977.86,Premium,3.9,469,326
+56,Puma Urban T-Shirt,Fashion,T-Shirts,Puma,1101.06,Mid-Range,4.6,2723,289
+57,Levis Classic T-Shirt,Fashion,T-Shirts,Levis,2527.74,Premium,4.8,4653,243
+58,Nike Classic Sneaker,Fashion,Sneakers,Nike,6937.96,Premium,3.2,4458,288
+59,Adidas Street T-Shirt,Fashion,T-Shirts,Adidas,450.88,Budget,3.0,1191,385
+60,Nike Street Jacket,Fashion,Jackets,Nike,1874.77,Mid-Range,3.1,3197,346
+61,Zara Vintage Dresse,Fashion,Dresses,Zara,7628.41,Premium,2.8,652,256
+62,Nike Classic Sneaker,Fashion,Sneakers,Nike,4538.76,Premium,4.6,2800,309
+63,Levis Vintage Dresse,Fashion,Dresses,Levis,9697.53,Premium,3.3,2249,401
+64,H&M Urban Jacket,Fashion,Jackets,H&M,3750.37,Premium,4.9,3547,95
+65,Puma Vintage Dresse,Fashion,Dresses,Puma,1130.23,Mid-Range,4.0,2028,365
+66,Nike Street T-Shirt,Fashion,T-Shirts,Nike,1794.94,Mid-Range,4.3,1273,378
+67,Scholastic Essential Self-Help,Books,Self-Help,Scholastic,301.45,Budget,2.5,2535,227
+68,Scholastic The Art of Sci-Fi,Books,Sci-Fi,Scholastic,350.76,Budget,3.0,3686,285
+69,Pearson Complete Guide to Comic,Books,Comics,Pearson,295.26,Budget,2.7,4550,47
+70,Pearson Essential Comic,Books,Comics,Pearson,1740.06,Mid-Range,2.5,3399,198
+71,Pearson Mastering Fiction,Books,Fiction,Pearson,1185.72,Mid-Range,2.9,3128,86
+72,Scholastic Essential Non-Fiction,Books,Non-Fiction,Scholastic,608.97,Mid-Range,2.9,1379,222
+73,Oxford Essential Sci-Fi,Books,Sci-Fi,Oxford,1019.04,Mid-Range,2.7,2071,483
+74,Oxford Introduction to Non-Fiction,Books,Non-Fiction,Oxford,1270.67,Mid-Range,3.6,1119,155
+75,Oxford Essential Fiction,Books,Fiction,Oxford,1698.07,Mid-Range,3.4,2709,225
+76,Oxford Introduction to Sci-Fi,Books,Sci-Fi,Oxford,357.64,Budget,3.3,1655,245
+77,HarperCollins Complete Guide to Sci-Fi,Books,Sci-Fi,HarperCollins,1939.58,Mid-Range,3.2,4032,495
+78,HarperCollins Essential Comic,Books,Comics,HarperCollins,813.51,Mid-Range,4.5,3228,186
+79,Pearson Mastering Fiction,Books,Fiction,Pearson,1224.23,Mid-Range,3.9,4516,13
+80,HarperCollins Complete Guide to Self-Help,Books,Self-Help,HarperCollins,1614.6,Mid-Range,4.6,576,419
+81,Oxford Mastering Self-Help,Books,Self-Help,Oxford,1302.34,Mid-Range,3.1,1272,366
+82,Oxford The Art of Self-Help,Books,Self-Help,Oxford,952.23,Mid-Range,4.0,4779,205
+83,Pearson Complete Guide to Comic,Books,Comics,Pearson,1131.93,Mid-Range,4.5,2955,359
+84,Pearson The Art of Comic,Books,Comics,Pearson,306.8,Budget,3.1,2918,85
+85,Penguin Introduction to Comic,Books,Comics,Penguin,1967.86,Mid-Range,4.2,3283,495
+86,Oxford The Art of Sci-Fi,Books,Sci-Fi,Oxford,119.04,Budget,3.1,4193,382
+87,Pearson Introduction to Comic,Books,Comics,Pearson,1405.56,Mid-Range,3.1,3074,200
+88,Pearson Introduction to Self-Help,Books,Self-Help,Pearson,385.42,Budget,5.0,3964,53
+89,Oxford The Art of Sci-Fi,Books,Sci-Fi,Oxford,319.53,Budget,4.9,1170,178
+90,Scholastic Complete Guide to Sci-Fi,Books,Sci-Fi,Scholastic,1589.11,Mid-Range,3.8,2863,243
+91,Oxford Complete Guide to Fiction,Books,Fiction,Oxford,704.93,Mid-Range,3.3,952,11
+92,Penguin Mastering Sci-Fi,Books,Sci-Fi,Penguin,1865.85,Mid-Range,4.4,4237,89
+93,HarperCollins Essential Comic,Books,Comics,HarperCollins,1162.71,Mid-Range,4.9,1909,408
+94,HarperCollins Mastering Self-Help,Books,Self-Help,HarperCollins,1315.91,Mid-Range,3.6,249,377
+95,HarperCollins Complete Guide to Comic,Books,Comics,HarperCollins,1224.19,Mid-Range,3.5,1769,105
+96,Penguin Introduction to Sci-Fi,Books,Sci-Fi,Penguin,292.33,Budget,4.7,1541,187
+97,HarperCollins Complete Guide to Sci-Fi,Books,Sci-Fi,HarperCollins,315.51,Budget,4.2,4019,270
+98,Pearson Complete Guide to Sci-Fi,Books,Sci-Fi,Pearson,1260.49,Mid-Range,4.0,2860,180
+99,Pearson Mastering Self-Help,Books,Self-Help,Pearson,1645.1,Mid-Range,4.3,2446,470
+100,Nilkamal Premium Storage,Home & Kitchen,Storage,Nilkamal,33670.08,Luxury,3.3,1964,156
+101,Prestige Elegant Cookware,Home & Kitchen,Cookware,Prestige,34732.14,Luxury,3.8,3436,305
+102,Nilkamal Smart Furniture,Home & Kitchen,Furniture,Nilkamal,21266.33,Luxury,3.7,4412,355
+103,Nilkamal Compact Furniture,Home & Kitchen,Furniture,Nilkamal,24583.17,Luxury,2.9,2587,431
+104,Nilkamal Premium Appliance,Home & Kitchen,Appliances,Nilkamal,43302.01,Luxury,4.9,3979,69
+105,Godrej Durable Furniture,Home & Kitchen,Furniture,Godrej,25369.81,Luxury,3.7,4038,212
+106,Godrej Compact Appliance,Home & Kitchen,Appliances,Godrej,4316.0,Premium,2.6,1816,149
+107,Philips Compact Cookware,Home & Kitchen,Cookware,Philips,26971.91,Luxury,2.9,3756,289
+108,Nilkamal Durable Appliance,Home & Kitchen,Appliances,Nilkamal,5836.91,Premium,2.8,4459,421
+109,Nilkamal Premium Decor,Home & Kitchen,Decor,Nilkamal,38047.21,Luxury,3.6,1800,217
+110,Bajaj Compact Cookware,Home & Kitchen,Cookware,Bajaj,15024.9,Luxury,5.0,3694,134
+111,IKEA Smart Decor,Home & Kitchen,Decor,IKEA,43290.47,Luxury,2.8,1951,107
+112,Bajaj Elegant Storage,Home & Kitchen,Storage,Bajaj,43079.23,Luxury,4.0,3517,84
+113,Prestige Compact Storage,Home & Kitchen,Storage,Prestige,40712.79,Luxury,4.5,4680,179
+114,Philips Durable Storage,Home & Kitchen,Storage,Philips,27029.67,Luxury,3.3,2407,148
+115,Philips Durable Storage,Home & Kitchen,Storage,Philips,49276.32,Luxury,4.2,790,69
+116,IKEA Elegant Appliance,Home & Kitchen,Appliances,IKEA,43377.97,Luxury,2.8,1097,127
+117,Bajaj Elegant Furniture,Home & Kitchen,Furniture,Bajaj,41457.39,Luxury,4.4,3227,250
+118,Nilkamal Elegant Furniture,Home & Kitchen,Furniture,Nilkamal,31464.08,Luxury,3.4,628,324
+119,Godrej Durable Cookware,Home & Kitchen,Cookware,Godrej,37539.16,Luxury,4.2,3033,232
+120,Philips Durable Appliance,Home & Kitchen,Appliances,Philips,322.16,Budget,4.4,773,374
+121,Bajaj Elegant Appliance,Home & Kitchen,Appliances,Bajaj,42534.29,Luxury,4.5,3268,111
+122,Prestige Smart Appliance,Home & Kitchen,Appliances,Prestige,13572.13,Luxury,4.6,2776,280
+123,Prestige Durable Storage,Home & Kitchen,Storage,Prestige,42649.64,Luxury,4.5,406,23
+124,Bajaj Smart Cookware,Home & Kitchen,Cookware,Bajaj,1009.81,Mid-Range,4.8,1304,225
+125,IKEA Smart Appliance,Home & Kitchen,Appliances,IKEA,10274.45,Luxury,4.2,1090,451
+126,Prestige Elegant Decor,Home & Kitchen,Decor,Prestige,4847.33,Premium,3.4,685,190
+127,IKEA Smart Furniture,Home & Kitchen,Furniture,IKEA,31354.09,Luxury,4.3,1928,219
+128,Bajaj Premium Cookware,Home & Kitchen,Cookware,Bajaj,253.1,Budget,3.7,1097,303
+129,Nilkamal Smart Furniture,Home & Kitchen,Furniture,Nilkamal,661.49,Mid-Range,4.2,997,440
+130,Bajaj Compact Appliance,Home & Kitchen,Appliances,Bajaj,23988.47,Luxury,3.1,741,374
+131,IKEA Elegant Cookware,Home & Kitchen,Cookware,IKEA,18503.57,Luxury,3.2,3145,396
+132,Bajaj Compact Furniture,Home & Kitchen,Furniture,Bajaj,3605.9,Premium,3.9,1354,225
+133,Cosco Elite Fitnes,Sports,Fitness,Cosco,9494.58,Premium,2.9,3382,315
+134,Adidas Pro Yoga,Sports,Yoga,Adidas,13468.58,Luxury,2.9,1018,301
+135,Puma Turbo Yoga,Sports,Yoga,Puma,4853.65,Premium,2.8,2278,330
+136,Adidas Victory Cricket,Sports,Cricket,Adidas,9093.79,Premium,4.3,2344,398
+137,Cosco Champion Cricket,Sports,Cricket,Cosco,3239.6,Premium,4.0,1555,382
+138,Puma Pro Yoga,Sports,Yoga,Puma,11799.26,Luxury,4.5,1970,253
+139,Nike Elite Yoga,Sports,Yoga,Nike,7592.82,Premium,4.0,4337,455
+140,Puma Champion Cricket,Sports,Cricket,Puma,2152.35,Premium,4.7,4666,215
+141,Decathlon Elite Fitnes,Sports,Fitness,Decathlon,11487.34,Luxury,4.9,607,8
+142,Nike Pro Running,Sports,Running,Nike,4079.34,Premium,2.6,505,485
+143,Decathlon Champion Yoga,Sports,Yoga,Decathlon,9501.85,Premium,3.8,3413,216
+144,Nike Victory Yoga,Sports,Yoga,Nike,8156.3,Premium,2.9,694,158
+145,Decathlon Elite Cricket,Sports,Cricket,Decathlon,14618.84,Luxury,2.9,2686,200
+146,Cosco Pro Running,Sports,Running,Cosco,4789.51,Premium,3.6,1964,29
+147,Nike Turbo Football,Sports,Football,Nike,1915.6,Mid-Range,4.0,460,158
+148,Nike Pro Football,Sports,Football,Nike,10675.93,Luxury,4.3,1352,254
+149,Decathlon Victory Fitnes,Sports,Fitness,Decathlon,11787.21,Luxury,4.3,1377,190
+150,Cosco Champion Football,Sports,Football,Cosco,11046.45,Luxury,2.8,250,171
+151,Puma Victory Yoga,Sports,Yoga,Puma,1144.31,Mid-Range,4.3,4733,321
+152,Yonex Turbo Cricket,Sports,Cricket,Yonex,7758.57,Premium,2.6,4653,85
+153,Adidas Champion Fitnes,Sports,Fitness,Adidas,11644.27,Luxury,4.7,954,116
+154,Nike Pro Running,Sports,Running,Nike,12907.6,Luxury,2.5,386,241
+155,Yonex Elite Fitnes,Sports,Fitness,Yonex,2847.62,Premium,4.9,299,283
+156,Adidas Champion Yoga,Sports,Yoga,Adidas,3873.3,Premium,4.8,2630,138
+157,Decathlon Champion Cricket,Sports,Cricket,Decathlon,1966.13,Mid-Range,4.2,441,91
+158,Decathlon Pro Football,Sports,Football,Decathlon,14319.38,Luxury,2.7,3820,443
+159,Puma Champion Fitnes,Sports,Fitness,Puma,1477.51,Mid-Range,3.6,3032,102
+160,Decathlon Champion Fitnes,Sports,Fitness,Decathlon,11144.72,Luxury,3.1,3026,302
+161,Adidas Victory Yoga,Sports,Yoga,Adidas,11454.14,Luxury,3.1,62,477
+162,Nike Elite Yoga,Sports,Yoga,Nike,8213.87,Premium,4.1,88,486
+163,Nike Turbo Fitnes,Sports,Fitness,Nike,12764.29,Luxury,4.3,861,105
+164,Adidas Turbo Running,Sports,Running,Adidas,7481.03,Premium,2.6,1176,364
+165,Nike Pro Fitnes,Sports,Fitness,Nike,13833.86,Luxury,4.7,4267,211
+166,Maybelline Radiance Makeup,Beauty,Makeup,Maybelline,2944.78,Premium,3.8,3240,38
+167,LOreal Radiance Grooming,Beauty,Grooming,LOreal,2230.42,Premium,4.9,1949,149
+168,Dove Natural Makeup,Beauty,Makeup,Dove,3532.56,Premium,4.3,2615,231
+169,Nivea Radiance Makeup,Beauty,Makeup,Nivea,4722.42,Premium,2.8,4799,55
+170,Lakme Glow Haircare,Beauty,Haircare,Lakme,2301.88,Premium,3.3,999,274
+171,Nivea Natural Makeup,Beauty,Makeup,Nivea,1609.71,Mid-Range,3.2,992,46
+172,Garnier Pure Haircare,Beauty,Haircare,Garnier,4148.29,Premium,4.2,340,110
+173,Nivea Radiance Makeup,Beauty,Makeup,Nivea,3583.67,Premium,4.9,3256,262
+174,Garnier Pure Skincare,Beauty,Skincare,Garnier,1373.82,Mid-Range,5.0,264,487
+175,Maybelline Luxe Fragrance,Beauty,Fragrance,Maybelline,3764.58,Premium,3.1,3795,52
+176,Lakme Radiance Haircare,Beauty,Haircare,Lakme,401.18,Budget,4.5,1830,66
+177,Maybelline Pure Haircare,Beauty,Haircare,Maybelline,3461.8,Premium,4.8,698,298
+178,Dove Radiance Grooming,Beauty,Grooming,Dove,205.82,Budget,2.7,3642,414
+179,Lakme Pure Haircare,Beauty,Haircare,Lakme,699.39,Mid-Range,4.9,424,86
+180,Maybelline Natural Grooming,Beauty,Grooming,Maybelline,2530.02,Premium,3.5,3505,88
+181,Nivea Glow Makeup,Beauty,Makeup,Nivea,1446.41,Mid-Range,3.6,1227,17
+182,LOreal Luxe Grooming,Beauty,Grooming,LOreal,1303.35,Mid-Range,3.2,3385,451
+183,Maybelline Radiance Grooming,Beauty,Grooming,Maybelline,528.84,Mid-Range,3.5,3444,102
+184,Nivea Luxe Grooming,Beauty,Grooming,Nivea,3993.75,Premium,5.0,2951,245
+185,Maybelline Pure Grooming,Beauty,Grooming,Maybelline,4571.12,Premium,3.8,3191,138
+186,Lakme Pure Haircare,Beauty,Haircare,Lakme,3024.87,Premium,2.6,2311,29
+187,LOreal Pure Fragrance,Beauty,Fragrance,LOreal,3856.53,Premium,5.0,1317,51
+188,Garnier Glow Haircare,Beauty,Haircare,Garnier,1404.98,Mid-Range,4.5,468,391
+189,LOreal Natural Haircare,Beauty,Haircare,LOreal,1837.54,Mid-Range,4.6,1433,90
+190,LOreal Pure Haircare,Beauty,Haircare,LOreal,4049.43,Premium,4.2,4856,14
+191,LOreal Luxe Makeup,Beauty,Makeup,LOreal,795.3,Mid-Range,4.9,4042,277
+192,Nivea Natural Makeup,Beauty,Makeup,Nivea,285.02,Budget,2.6,4938,112
+193,LOreal Natural Skincare,Beauty,Skincare,LOreal,102.35,Budget,4.8,1660,412
+194,Dove Glow Haircare,Beauty,Haircare,Dove,4601.03,Premium,4.6,2660,30
+195,Nivea Luxe Skincare,Beauty,Skincare,Nivea,3552.01,Premium,2.9,918,433
+196,Dove Radiance Grooming,Beauty,Grooming,Dove,1929.59,Mid-Range,4.9,3250,300
+197,Dove Pure Skincare,Beauty,Skincare,Dove,1679.76,Mid-Range,4.9,3588,405
+198,Garnier Pure Fragrance,Beauty,Fragrance,Garnier,952.59,Mid-Range,4.9,2933,114
+199,Nivea Natural Grooming,Beauty,Grooming,Nivea,1602.43,Mid-Range,4.2,1053,90
+200,Garnier Luxe Skincare,Beauty,Skincare,Garnier,2017.85,Premium,5.0,4658,16
